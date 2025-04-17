@@ -1,0 +1,4 @@
+Le Khac Hoan	     Nam	2003		012345678	Viet Nam	Ha Noi	20/8/2025	2			50000	302		12.0		18.0
+Ngo Xuan Thao	     Nu	2004		02365321	Viet Nam	BacNinh	28/9/2024	1		Don	80000	900		7.0		10.0
+Dao Ngoc Binh Thien	     Nam	1990		8375813	Viet Nam	Son La	2/3/2018	5		Doi	100000	901		4.0		12.0	3.0
+
